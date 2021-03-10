@@ -1,0 +1,19 @@
+{
+  "name": "toolboxsoftworks",
+  "version": "1.0.0",
+  "description": "Technology solutions for companies driven by powerful technology tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athenaozanich/toolboxsoftworks.git"
+  },
+  "author": "Toolbox Softworks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athenaozanich/toolboxsoftworks/issues"
+  },
+  "homepage": "https://github.com/athenaozanich/toolboxsoftworks#readme"
+}
